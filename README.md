@@ -6,11 +6,7 @@
 <p align="left">
 <a href="https://twitter.com/kaan368750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaan36875" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/320479298492563468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kaan36875" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kaanbeyazkilic" target="_blank">
-  <img width="40" height="40" alt="LinkedIn Logo"
-    src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI4IDEyOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBpZD0ib3JpZ2luYWwiPjxwYXRoIGZpbGw9IiMwMDc2YjIiIGQ9Ik0xMTYsM0gxMmE4LjkxLDguOTEsMCwwLDAtOSw4LjhWMTE2LjIyQTguOTEsOC45MSwwLDAsMCwxMiwxMjVIMTE2YTguOTMsOC45MywwLDAsMCw5LTguODFWMTEuNzdBOC45Myw4LjkzLDAsMCwwLDExNiwzWiI+PC9wYXRoPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0yMS4wNiw0OC43M0gzOS4xN1YxMDdIMjEuMDZabTkuMDYtMjlhMTAuNSwxMC41LDAsMSwxLTEwLjUsMTAuNDksMTAuNSwxMC41LDAsMCwxLDEwLjUtMTAuNDkiPjwvcGF0aD48cGF0aCBmaWxsPSIjZmZmIiBkPSJN NTAuNTMsNDguNzNINjcuODl2OGguMjRjMi40Mi00LjU4LDguMzItOS40MSwxNy4xMy05LjQxQzEwMy42LDQ3LjI4LDEwNyw1OS4zNSwxMDcsNzV2MzJIODguODlWNzguNjVjMC02Ljc1LS4xMi0xNS40NC05LjQxLTE1LjQ0cy0xMC44Nyw3LjM2LTEwLjg3LDE1VjEwN0g1MC41M1oiPjwvcGF0aD48L2c+PC9zdmc+" />
-</a>
-
+<a href="https://www.linkedin.com/in/kaanbeyazkilic" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="kaan36875" height="30" width="40" /></a>
 
 </p>
 
