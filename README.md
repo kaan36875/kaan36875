@@ -7,14 +7,10 @@
 <a href="https://twitter.com/kaan368750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaan36875" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/320479298492563468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kaan36875" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kaanbeyazkilic" target="_blank">
-  <svg viewBox="0 0 128 128" width="40" height="40" xmlns="http://www.w3.org/2000/svg">
-    <g id="original">
-      <path fill="#0076b2" d="M116,3H12a8.91,8.91,0,0,0-9,8.8V116.22A8.91,8.91,0,0,0,12,125H116a8.93,8.93,0,0,0,9-8.81V11.77A8.93,8.93,0,0,0,116,3Z"/>
-      <path fill="#fff" d="M21.06,48.73H39.17V107H21.06Zm9.06-29a10.5,10.5,0,1,1-10.5,10.49,10.5,10.5,0,0,1,10.5-10.49"/>
-      <path fill="#fff" d="M50.53,48.73H67.89v8h.24c2.42-4.58,8.32-9.41,17.13-9.41C103.6,47.28,107,59.35,107,75v32H88.89V78.65c0-6.75-.12-15.44-9.41-15.44s-10.87,7.36-10.87,15V107H50.53Z"/>
-    </g>
-  </svg>
+  <img width="40" height="40" alt="LinkedIn Logo"
+    src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI4IDEyOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBpZD0ib3JpZ2luYWwiPjxwYXRoIGZpbGw9IiMwMDc2YjIiIGQ9Ik0xMTYsM0gxMmE4LjkxLDguOTEsMCwwLDAtOSw4LjhWMTE2LjIyQTguOTEsOC45MSwwLDAsMCwxMiwxMjVIMTE2YTguOTMsOC45MywwLDAsMCw5LTguODFWMTEuNzdBOC45Myw4LjkzLDAsMCwwLDExNiwzWiI+PC9wYXRoPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0yMS4wNiw0OC43M0gzOS4xN1YxMDdIMjEuMDZabTkuMDYtMjlhMTAuNSwxMC41LDAsMSwxLTEwLjUsMTAuNDksMTAuNSwxMC41LDAsMCwxLDEwLjUtMTAuNDkiPjwvcGF0aD48cGF0aCBmaWxsPSIjZmZmIiBkPSJN NTAuNTMsNDguNzNINjcuODl2OGguMjRjMi40Mi00LjU4LDguMzItOS40MSwxNy4xMy05LjQxQzEwMy42LDQ3LjI4LDEwNyw1OS4zNSwxMDcsNzV2MzJIODguODlWNzguNjVjMC02Ljc1LS4xMi0xNS40NC05LjQxLTE1LjQ0cy0xMC44Nyw3LjM2LTEwLjg3LDE1VjEwN0g1MC41M1oiPjwvcGF0aD48L2c+PC9zdmc+" />
 </a>
+
 
 </p>
 
