@@ -6,6 +6,7 @@
 <p align="left">
 <a href="https://twitter.com/kaan368750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaan36875" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/320479298492563468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kaan36875" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kaanbeyazkilic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="kaan36875" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
