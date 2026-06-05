@@ -15,8 +15,8 @@ I am a Mobile App Developer passionate about building high-performance iOS and c
 *   *A dynamic mobile app featuring an embedded AI agent to provide personalized, context-aware mixology interactions.*
 
 ### 🛠️ Tech Stack
-*   **Mobile:** SwiftUI, Flutter, iOS Development
-*   **Languages & AI:** Swift, Dart, Python, Prompt Engineering
+*   **Mobile:** Flutter, iOS Development
+*   **Languages & AI:** Dart, Python, Prompt Engineering
 *   **Tools:** Git, Figma, Xcode
 
 📫 **How to reach me:** [kaanbeyazkilic@gmail.com](mailto:kaanbeyazkilic@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kaanbeyazkilic)
