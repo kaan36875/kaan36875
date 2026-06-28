@@ -9,7 +9,7 @@ I am a Mobile App Developer passionate about building high-performance iOS and c
 *   **Tech Stack:** Flutter, Firebase
 *   *A comprehensive mobile application tailored for specialty coffee enthusiasts. Managed the complete end-to-end product lifecycle from UI/UX design to App Store deployment.*
 
-🤖 **CocktailNerd - AI-Integrated Mixology App**
+🤖 **Shakr - AI-Integrated Mixology App**
 *   **Role:** Lead Developer
 *   **Tech Stack:** Flutter, Python, AI Integrations
 *   *A dynamic mobile app featuring an embedded AI agent to provide personalized, context-aware mixology interactions.*
