@@ -10,7 +10,7 @@ I am a Mobile App Developer passionate about building high-performance iOS and c
 *   *A comprehensive mobile application tailored for specialty coffee enthusiasts. Managed the complete end-to-end product lifecycle from UI/UX design to App Store deployment.*
 *   **Website:** [CoffeeNerd](https://coffeenerd.kaanbeyazkilic.com/)
 
-🤖 **Shakr - AI-Integrated Mixology App**
+🤖 **[Shakr - AI-Integrated Mixology App](https://apps.apple.com/tr/app/shakr-cocktail-community/id6772621748)**
 *   **Role:** Lead Developer
 *   **Tech Stack:** Flutter, Python, AI Integrations
 *   *A dynamic mobile app featuring an embedded AI agent to provide personalized, context-aware mixology interactions.*
