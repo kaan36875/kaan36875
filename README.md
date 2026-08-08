@@ -5,13 +5,13 @@ I am a Mobile App Developer passionate about building high-performance iOS and c
 ### 🚀 Selected Projects (Private Source Code)
 
 📱 **[CoffeeNerd - Available on the App Store](https://apps.apple.com/us/app/coffeenerd-ai-brew-tracker/id6762415518)**
-*   **Role:** Developer & Product Manager
+*   **Role:** Developer & Product Owner
 *   **Tech Stack:** Flutter, Firebase
 *   *A comprehensive mobile application tailored for specialty coffee enthusiasts. Managed the complete end-to-end product lifecycle from UI/UX design to App Store deployment.*
 *   **Website:** [CoffeeNerd](https://coffeenerd.kaanbeyazkilic.com/)
 
 🤖 **[Shakr - AI-Integrated Mixology App](https://apps.apple.com/tr/app/shakr-cocktail-community/id6772621748)**
-*   **Role:** Lead Developer
+*   **Role:** Developer & Product Owner
 *   **Tech Stack:** Flutter, Python, AI Integrations
 *   *A dynamic mobile app featuring an embedded AI agent to provide personalized, context-aware mixology interactions.*
 *   **Website:** [Shakr](https://shakr.kaanbeyazkilic.com/)
