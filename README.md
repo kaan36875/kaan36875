@@ -18,8 +18,10 @@ I combine a civil engineering background with hands-on software development to a
 
 ## 📱 Shipped Products
 
-- [**CoffeeNerd**](https://apps.apple.com/us/app/coffeenerd-ai-brew-tracker/id6762415518): Specialty coffee app, live on the App Store (Flutter, Firebase)
-- [**Shakr**](https://apps.apple.com/tr/app/shakr-cocktail-community/id6772621748): Cocktail community app with an embedded AI agent (Flutter, Python)
+| Product | What it does | Stack |
+|---|---|---|
+| [**CoffeeNerd**](https://apps.apple.com/app/coffeenerd-ai-brew-tracker/id6762415518) · [Website](https://coffeenerd.kaanbeyazkilic.com/) | AI-powered brew tracker for specialty coffee enthusiasts, live on the App Store. Built end to end, from UI/UX design to release | Flutter, Firebase, AI integration |
+| [**Shakr**](https://apps.apple.com/tr/app/shakr-cocktail-community/id6772621748) · [Website](https://shakr.kaanbeyazkilic.com/) | Cocktail community app with an embedded AI agent for personalised, context-aware recommendations | Flutter, Firebase, Python, AI agent |
 
 ## 🛠️ Toolbox
 
