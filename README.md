@@ -25,8 +25,10 @@ I combine a civil engineering background with hands-on software development to a
 
 ## 🛠️ Toolbox
 
-**Languages:** Python · C# · TypeScript · Dart · SQL
-**AEC:** Revit API · IFC / IfcOpenShell · web-ifc · BCF · pyRevit
-**Data, ML & GIS:** GeoPandas · pandas · NumPy · XGBoost · SHAP · Optuna
-**Web & Cloud:** FastAPI · React · Next.js · Docker · GitHub Actions · Vercel
-**Mobile:** Flutter · SwiftUI · Firebase
+| Area | Tools |
+|---|---|
+| **Languages** | Python · C# · TypeScript · Dart · SQL |
+| **AEC** | Revit API · IFC / IfcOpenShell · web-ifc · BCF · pyRevit |
+| **Data, ML & GIS** | GeoPandas · pandas · NumPy · XGBoost · SHAP · Optuna |
+| **Web & Cloud** | FastAPI · React · Next.js · Docker · GitHub Actions · Vercel |
+| **Mobile** | Flutter · SwiftUI · Firebase |
