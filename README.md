@@ -1,24 +1,30 @@
-# Hi there 👋, I'm Kaan Beyazkılıç
+# Hi, I'm Kaan 👋
 
-I am a Mobile App Developer passionate about building high-performance iOS and cross-platform applications, with a strong focus on AI integrations. 
+**Civil engineer who builds software for the built environment.**
+I combine a civil engineering background with hands-on software development to automate BIM workflows, analyse geospatial data, and build tools engineers actually use.
 
-### 🚀 Selected Projects (Private Source Code)
+📍 Antalya, Türkiye · 🌐 [kaanbeyazkilic.com](https://www.kaanbeyazkilic.com) · 💼 [LinkedIn](https://www.linkedin.com/in/kaanbeyazkilic) · ✉️ kaanbeyazkilic@gmail.com
 
-📱 **[CoffeeNerd - Available on the App Store](https://apps.apple.com/us/app/coffeenerd-ai-brew-tracker/id6762415518)**
-*   **Role:** Developer & Product Owner
-*   **Tech Stack:** Flutter, Firebase
-*   *A comprehensive mobile application tailored for specialty coffee enthusiasts. Managed the complete end-to-end product lifecycle from UI/UX design to App Store deployment.*
-*   **Website:** [CoffeeNerd](https://coffeenerd.kaanbeyazkilic.com/)
+---
 
-🤖 **[Shakr - AI-Integrated Mixology App](https://apps.apple.com/tr/app/shakr-cocktail-community/id6772621748)**
-*   **Role:** Developer & Product Owner
-*   **Tech Stack:** Flutter, Python, AI Integrations
-*   *A dynamic mobile app featuring an embedded AI agent to provide personalized, context-aware mixology interactions.*
-*   **Website:** [Shakr](https://shakr.kaanbeyazkilic.com/)
+## 🏗️ AEC & Digital Engineering
 
-### 🛠️ Tech Stack
-*   **Mobile:** Flutter, iOS Development
-*   **Languages & AI:** Dart, Python, Prompt Engineering
-*   **Tools:** Git, Figma, Xcode
+| Project | What it does | Stack |
+|---|---|---|
+| [**BIMDelta**](https://github.com/kaan36875/BIMDelta) · [Live demo](https://bimdelta.vercel.app/) | Compare two IFC model versions in 3D: added, removed and modified elements, property diffs, natural-language queries | Python, IfcOpenShell, FastAPI, React, TypeScript, three.js |
+| [**Revit Quality Checker**](https://github.com/kaan36875/revit-quality-checker) | Revit add-in that checks model quality against configurable rules, auto-fixes issues, exports HTML & BCF reports. Currently in review for the Autodesk App Store | C#, Revit API, WPF, .NET |
+| [**ÉireSite**](https://github.com/kaan36875/eiresite) · [Live demo](https://eiresite.streamlit.app/) | Renewable energy site screening for Ireland: two-phase GIS multi-criteria analysis using Irish open data | Python, GeoPandas, Streamlit |
+| [**OptiMPa**](https://github.com/kaan36875/OptiMPa) · [Live demo](https://opti-m-pa.vercel.app/) | Predicts concrete compressive strength and embodied carbon of low-carbon mixes; estimates the concrete carbon of a whole building from an IFC model, fully in the browser | Python, XGBoost, SHAP, Next.js, web-ifc |
 
-📫 **How to reach me:** [kaanbeyazkilic@gmail.com](mailto:kaanbeyazkilic@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kaanbeyazkilic)
+## 📱 Shipped Products
+
+- [**CoffeeNerd**](https://apps.apple.com/us/app/coffeenerd-ai-brew-tracker/id6762415518): Specialty coffee app, live on the App Store (Flutter, Firebase)
+- [**Shakr**](https://apps.apple.com/tr/app/shakr-cocktail-community/id6772621748): Cocktail community app with an embedded AI agent (Flutter, Python)
+
+## 🛠️ Toolbox
+
+**Languages:** Python · C# · TypeScript · Dart · SQL
+**AEC:** Revit API · IFC / IfcOpenShell · web-ifc · BCF · pyRevit
+**Data, ML & GIS:** GeoPandas · pandas · NumPy · XGBoost · SHAP · Optuna
+**Web & Cloud:** FastAPI · React · Next.js · Docker · GitHub Actions · Vercel
+**Mobile:** Flutter · SwiftUI · Firebase
