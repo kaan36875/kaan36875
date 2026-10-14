@@ -12,7 +12,7 @@ I combine a civil engineering background with hands-on software development to a
 | Project | What it does | Stack |
 |---|---|---|
 | [**BIMDelta**](https://github.com/kaan36875/BIMDelta) · [Live demo](https://bimdelta.vercel.app/) | Compare two IFC model versions in 3D: added, removed and modified elements, property diffs, natural-language queries | Python, IfcOpenShell, FastAPI, React, TypeScript, three.js |
-| [**BIM Quality Checker**](https://github.com/kaan36875/bim-quality-checker) | Revit add-in that checks model quality against configurable rules, auto-fixes issues, exports HTML & BCF reports. Currently in review for the Autodesk App Store | C#, Revit API, WPF, .NET |
+| [**BIM Quality Checker**](https://github.com/kaan36875/bim-quality-checker) · [AppStore](https://apps.autodesk.com/RVT/en/Detail/Index?id=242199536006416747&appLang=en&os=Win64&mode=preview&autostart=True&loginRequired=True) | Revit add-in that checks model quality against configurable rules, auto-fixes issues, exports HTML & BCF reports. Currently in review for the Autodesk App Store | C#, Revit API, WPF, .NET |
 | [**ÉireSite**](https://github.com/kaan36875/eiresite) · [Live demo](https://eiresite.streamlit.app/) | Renewable energy site screening for Ireland: two-phase GIS multi-criteria analysis using Irish open data | Python, GeoPandas, Streamlit |
 | [**OptiMPa**](https://github.com/kaan36875/OptiMPa) · [Live demo](https://opti-m-pa.vercel.app/) | Predicts concrete compressive strength and embodied carbon of low-carbon mixes; estimates the concrete carbon of a whole building from an IFC model, fully in the browser | Python, XGBoost, SHAP, Next.js, web-ifc |
 
